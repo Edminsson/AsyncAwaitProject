@@ -9,6 +9,8 @@ namespace AsyncAwaitConsole
 {
     class Program
     {
+        //Observera att Task-metoden SlowOperationAsync enligt definitionen ska returnera Task<int> men
+        //returnerar 42 precis som den vanliga SlowOperation-metoden.
         static void Main(string[] args)
         {
             Console.WriteLine("Press 1 to start Slow Operation without Async and Await.");
