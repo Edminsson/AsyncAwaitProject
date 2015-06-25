@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitConsole", "AsyncAwaitProject\AsyncAwaitConsole.csproj", "{2E10B717-F119-4427-BDAA-04920CBBB30D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAsync", "WindowsAsync\WindowsAsync.csproj", "{FC5D3687-48A3-47B1-B0F8-FE35191B0DCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2E10B717-F119-4427-BDAA-04920CBBB30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E10B717-F119-4427-BDAA-04920CBBB30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E10B717-F119-4427-BDAA-04920CBBB30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5D3687-48A3-47B1-B0F8-FE35191B0DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5D3687-48A3-47B1-B0F8-FE35191B0DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5D3687-48A3-47B1-B0F8-FE35191B0DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5D3687-48A3-47B1-B0F8-FE35191B0DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
